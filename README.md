@@ -2,11 +2,11 @@
 
 此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
-##读立写生
+##雁过留痕
 
-我是陈素封，博客：[cnfeat.com](cnfeat.com)
+我是Tiger，博客：[http://thm1118.github.io/](http://thm1118.github.io/)
 
-每天千字践行者，践行时间：2014年02月10日至2014年02月23日，感谢这段经历，让我成为了现在的我。
+记录记录。
 
 现在研习 **认知写作学** 。
 
